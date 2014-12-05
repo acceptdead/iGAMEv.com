@@ -1,0 +1,14 @@
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicServer\bin\Debug\BasicServer.exe
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicServer\bin\Debug\BasicServer.pdb
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicServer\bin\Debug\net_x.dll
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicServer\bin\Debug\net_x.pdb
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicServer\obj\x86\Debug\BasicServer.exe
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicServer\obj\x86\Debug\BasicServer.pdb
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicServer\obj\x86\Debug\BasicServer.csprojResolveAssemblyReference.cache
+C:\mobile_app\project\net_engine\example\Basic\BasicServer2\obj\x86\Debug\BasicServer.exe
+C:\mobile_app\project\net_engine\example\Basic\BasicServer2\obj\x86\Debug\BasicServer.pdb
+C:\mobile_app\project\net_engine\example\Basic\BasicServer2\bin\Debug\BasicServer.exe
+C:\mobile_app\project\net_engine\example\Basic\BasicServer2\bin\Debug\BasicServer.pdb
+C:\mobile_app\project\net_engine\example\Basic\BasicServer2\bin\Debug\net_x.dll
+C:\mobile_app\project\net_engine\example\Basic\BasicServer2\bin\Debug\net_x.pdb
+C:\mobile_app\project\net_engine\example\Basic\BasicServer2\obj\x86\Debug\ResolveAssemblyReference.cache

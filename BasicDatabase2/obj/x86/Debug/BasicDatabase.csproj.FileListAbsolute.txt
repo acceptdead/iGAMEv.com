@@ -1,0 +1,9 @@
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicDatabase\obj\x86\Debug\BasicDatabase.csprojResolveAssemblyReference.cache
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicDatabase\bin\Debug\BasicDatabase.exe
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicDatabase\bin\Debug\BasicDatabase.pdb
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicDatabase\bin\Debug\net_x.dll
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicDatabase\bin\Debug\net_x.pdb
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicDatabase\obj\x86\Debug\BasicDatabase.exe
+D:\PROJECT\mobile_app\project\net_engine\example\Basic\BasicDatabase\obj\x86\Debug\BasicDatabase.pdb
+C:\mobile_app\project\net_engine\example\Basic\BasicDatabase2\obj\x86\Debug\BasicDatabase.exe
+C:\mobile_app\project\net_engine\example\Basic\BasicDatabase2\obj\x86\Debug\BasicDatabase.pdb
